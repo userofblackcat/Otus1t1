@@ -1,5 +1,5 @@
 <?php
-
+// aaaaa
 
 class Otus1 {
 	public function sqrt1($x) {
